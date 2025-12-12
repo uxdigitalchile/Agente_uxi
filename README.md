@@ -2,6 +2,10 @@
 
 Dashboard de análisis en tiempo real para el agente virtual Uxi del portal UXDigital.
 
+## 🔗 Acceso
+
+**URL del Dashboard:** https://uxdigitalchile.github.io/Dashboard_Uxi/
+
 ## Descripción
 
 Este dashboard permite visualizar y analizar las conversaciones del chatbot Uxi, incluyendo métricas de uso, calificaciones de usuarios y tendencias temporales.
