@@ -4,7 +4,7 @@ Dashboard de análisis en tiempo real para el agente virtual Uxi del portal UXDi
 
 ## 🔗 Acceso
 
-**URL del Dashboard:** https://uxdigitalchile.github.io/Dashboard_Uxi/
+**URL del Dashboard:** https://uxdigitalchile.github.io/Agente_uxi/
 
 ## Descripción
 
